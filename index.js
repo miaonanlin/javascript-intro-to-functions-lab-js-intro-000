@@ -22,3 +22,10 @@ funtion sayHiToGrandma(string){
     return "YES INDEED"
   }
 }
+
+funtion sayHiToGrandma(string){
+  if string === sting.lowercase {
+    return "I can't hear you!"
+  }
+}
+
