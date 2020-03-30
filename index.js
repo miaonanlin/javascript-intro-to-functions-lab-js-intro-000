@@ -18,10 +18,10 @@ function sayHiToGrandma(string){
 }
 
 funtion sayHiToGrandma(string){
-  if string === string.uppercase {
+  if (string.toUpperCase() === string {
     return "YES INDEED"
   }
-  if string === string.lowercase{
+  if (string.toLowerCase === string{
     return "I can't hear you!"
   }
 }
