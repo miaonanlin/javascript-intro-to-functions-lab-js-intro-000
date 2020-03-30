@@ -15,6 +15,10 @@ function logWhisper(string) {
 
 function sayHiToGrandma(string){
   return "I love you, too."
-  return "I can't hear you!"
-  return "YES INDEED!"
+}
+
+funtion sayHiToGrandma(string){
+  if string === sting.uppercase {
+    return "YES INDEED"
+  }
 }
