@@ -18,13 +18,11 @@ function sayHiToGrandma(string){
 }
 
 funtion sayHiToGrandma(string){
-  if string === sting.uppercase {
+  if string === string.uppercase {
     return "YES INDEED"
   }
-}
-
-funtion sayHiToGrandma(string){
-  if string === sting.lowercase {
+  if string === string.lowercase{
     return "I can't hear you!"
   }
 }
+
